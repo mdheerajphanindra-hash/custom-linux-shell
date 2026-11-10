@@ -1,0 +1,13 @@
+# Compiled executables
+myshell
+hello
+
+# Object files
+*.o
+
+# Log files
+*.log
+sleep_log.txt
+
+# Temporary files
+core
