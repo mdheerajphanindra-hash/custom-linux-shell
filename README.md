@@ -40,7 +40,7 @@ custom-linux-shell/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mdheerajphanindra-hash/custom-linux-shell.git
 cd custom-linux-shell
 ```
 
